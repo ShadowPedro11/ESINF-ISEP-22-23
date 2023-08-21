@@ -1,0 +1,10 @@
+
+a	java:S112¯"FDefine and throw a dedicated exception instead of using a generic one.(³®òüÿÿÿÿ
+A
+java:S11685"+Return an empty collection instead of null.(¥¹ï
+u
+java:S3012Ø"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(æ·» úÿÿÿÿ
+j
+java:S2975‚"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¬Œ«×
+_
+java:S1182‚"HUse super.clone() to create and seed the cloned instance to be returned.(¬Œ«×

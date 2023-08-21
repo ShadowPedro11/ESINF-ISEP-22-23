@@ -1,0 +1,22 @@
+
+D
+java:S3740z"/Provide the parametrized type for this generic.(¡Æ∂[
+D
+java:S3740z"/Provide the parametrized type for this generic.(¡Æ∂[
+g
+java:S1206ë"PThis class overrides "equals()" and should therefore also override "hashCode()".(ç‹—„
+W
+java:S11264"AReplace this if-then-else statement by a single return statement.(Å°–°
+j
+java:S2975ñ"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(Ø·—Î
+_
+java:S1182ñ"HUse super.clone() to create and seed the cloned instance to be returned.(Ø·—Î
+a
+java:S1659ù"EDeclare "prevNode" and all following declarations on a separate line.(·ø—‹˛ˇˇˇˇ
+W	java:S125ü"<This block of commented-out lines of code should be removed.(ö∂íﬂ˘ˇˇˇˇ
+X
+java:S1126∞"AReplace this if-then-else statement by a single return statement.(«ÆœÇ
+j
+java:S2272π"NAdd a "NoSuchElementException" for iteration beyond the end of the collection.(Àˆ¬”ˇˇˇˇˇ
+X
+java:S1126√"AReplace this if-then-else statement by a single return statement.(‹πΩ§

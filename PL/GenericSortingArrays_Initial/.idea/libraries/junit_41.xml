@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="junit_41">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GenericSortingArrays_Initial/lib/junit_4/junit-4.10-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GenericSortingArrays_Initial/lib/junit_4/junit-4.10-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/GenericSortingArrays_Initial/lib/junit_4/junit-4.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

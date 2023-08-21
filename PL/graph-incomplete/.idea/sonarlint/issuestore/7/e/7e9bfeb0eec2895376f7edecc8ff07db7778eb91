@@ -1,0 +1,11 @@
+
+Y
+java:S2259E"CA "NullPointerException" could be thrown; "edge1" is nullable here.(ÂŠ¦
+O
+java:S3516@"9Refactor this method to not always return the same value.(µ¬Â‚
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ƒ×¥
+A
+java:S1481J",Remove this unused "airport" local variable.(Å±Ÿo
+V	java:S125K"<This block of commented-out lines of code should be removed.(Ú‚„Ãıÿÿÿÿ
+C	java:S108V")Either remove or fill this block of code.(¯ñ°Öÿÿÿÿÿ

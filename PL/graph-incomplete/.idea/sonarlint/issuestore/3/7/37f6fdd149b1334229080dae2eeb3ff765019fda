@@ -1,0 +1,9 @@
+
+n
+java:S11926"SDefine a constant instead of duplicating this literal "Not supported yet." 5 times.(³È‹—ýÿÿÿÿ
+‡
+java:S1319i"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(„¾´†
+X
+java:S2094#"BRemove this empty class, write its code or make it an "interface".(¥Ããµ
+<
+java:S1068&"&Remove this unused "gm" private field.(ÓÕÉô

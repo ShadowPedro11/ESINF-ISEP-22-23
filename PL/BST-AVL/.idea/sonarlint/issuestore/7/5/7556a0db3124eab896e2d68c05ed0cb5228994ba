@@ -1,0 +1,13 @@
+
+f	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ß›Âß
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±é¥F
+f
+java:S1206z"PThis class overrides "equals()" and should therefore also override "hashCode()".(³îðµ
+r
+java:S2177F"WRename this method; there is a "private" method in the parent class with the same name.(“º¸“ûÿÿÿÿ
+r
+java:S2177\"WRename this method; there is a "private" method in the parent class with the same name.(ÔÊßôÿÿÿÿÿ
+f
+java:S1764a"KCorrect one of the identical sub-expressions on both sides of operator "&&"(¯ÿÁÿýÿÿÿÿ
+H
+java:S1128"-Remove this unused import 'org.w3c.dom.Node'.(ùŠÿËýÿÿÿÿ

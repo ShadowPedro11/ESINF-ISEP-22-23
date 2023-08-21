@@ -1,0 +1,7 @@
+
+n
+java:S1192"SDefine a constant instead of duplicating this literal "Not supported yet." 7 times.(³È‹—ýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÑÍ¢¶ûÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“×·ôþÿÿÿÿ8ˆŸÈ”Æ0
+A
+java:S1068"&Remove this unused "cc" private field.(æðäŒþÿÿÿÿ

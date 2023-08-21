@@ -1,0 +1,19 @@
+
+E
+PL_Generics/build.xml,2\9\29ff8373bb353b84440a59b4d8bbfdcd468ace5a
+R
+"PL_Generics/src/esinf/Invoice.java,a\6\a60817c81f4818f4674b4b27868da774e2038c81
+R
+"PL_Generics/src/esinf/Product.java,b\f\bf4fd08ef0b92daa494f16db0ea2805ea0daa430
+V
+&PL_Generics/src/esinf/Supermarket.java,3\8\38301073a872bdd22abeb3a407c1acff2cc91524
+O
+PL_Generics/src/esinf/main.java,5\2\527adc2fe7cfb9dd32267cfaf63fb8040ab64eb6
+H
+PL_Generics/invoices.txt,d\8\d8b6fe476831cec5328d35e70df2ac0664392818
+W
+'PL_Generics/test/esinf/InvoiceTest.java,0\5\054bb1db1e18664ecb34256d85b0c8c56e9de409
+W
+'PL_Generics/test/esinf/ProductTest.java,5\2\520ec33a5d532f0e504ec44fc55e166ede1f0533
+[
++PL_Generics/test/esinf/SupermarketTest.java,6\e\6e4be325970d9329228f18a17454c8bbcc36ce61

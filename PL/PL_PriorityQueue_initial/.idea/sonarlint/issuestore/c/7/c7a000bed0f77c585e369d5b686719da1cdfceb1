@@ -1,0 +1,8 @@
+
+E
+java:S1066\"/Merge this if statement with the enclosing one.(â ³»
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¹ô¬Í
+j
+java:S2975®"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(í¾Ü©
+_
+java:S1182®"HUse super.clone() to create and seed the cloned instance to be returned.(í¾Ü©

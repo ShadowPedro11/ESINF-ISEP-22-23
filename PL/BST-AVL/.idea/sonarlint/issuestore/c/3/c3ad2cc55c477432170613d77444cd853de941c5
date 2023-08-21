@@ -1,0 +1,24 @@
+
+F
+java:S3740“"/Provide the parametrized type for this generic.(ø²¢ó
+F
+java:S3740“"/Provide the parametrized type for this generic.(ø²¢ó
+„
+java:S1319™"hThe type of "posOrder" should be an interface such as "List" rather than the implementation "ArrayList".(³× îûÿÿÿÿ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(±é¥F
+—
+java:S1186B"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ğ±øÅ
+œ
+java:S1186F"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ºÊ‘ùÿÿÿÿ
+W
+java:S1126"AReplace this if-then-else statement by a single return statement.(‰âˆÒ
+W
+java:S1126("AReplace this if-then-else statement by a single return statement.(—é¹¸
+O
+java:S1172B"9Remove these unused method parameters "node", "snapshot".(Ğ±øÅ
+T
+java:S1172F"9Remove these unused method parameters "node", "snapshot".(ºÊ‘ùÿÿÿÿ
+F
+java:S1172R"+Remove this unused method parameter "node".(¬ş¾µüÿÿÿÿ
+G
+java:S1144R",Remove this unused private "copyRec" method.(¬ş¾µüÿÿÿÿ

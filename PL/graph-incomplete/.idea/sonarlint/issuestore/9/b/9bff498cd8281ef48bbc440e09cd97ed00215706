@@ -1,0 +1,29 @@
+
+\	java:S112‚"FDefine and throw a dedicated exception instead of using a generic one.(‚µÏ
+a	java:S112‘"FDefine and throw a dedicated exception instead of using a generic one.(³®òüÿÿÿÿ
+\	java:S112±"FDefine and throw a dedicated exception instead of using a generic one.(‚µÏ
+a	java:S112É"FDefine and throw a dedicated exception instead of using a generic one.(³®òüÿÿÿÿ
+p
+java:S1192‚"YDefine a constant instead of duplicating this literal "Vertices cannot be null!" 4 times.(‚µÏ
+F
+java:S1066¥"/Merge this if statement with the enclosing one.(«¾Ç´
+3
+java:S1643÷"Use a StringBuilder instead.(ò×¤ö
+F
+java:S2160"+Override the "equals" method in this class.(áªÎ’ùÿÿÿÿ
+Z
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ãò›"
+A
+java:S1168)"+Return an empty collection instead of null.(¥¹ï
+A
+java:S1168i"+Return an empty collection instead of null.(¥¹ï
+A
+java:S1168s"+Return an empty collection instead of null.(¥¹ï
+m
+java:S2234¥"VParameters to edge have the same names but not the same order as the method arguments.(«¾Ç´
+r
+java:S2234Ù"VParameters to edge have the same names but not the same order as the method arguments.(ª¥¤¼ıÿÿÿÿ
+j
+java:S2975å"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(ä³¨
+_
+java:S1182å"HUse super.clone() to create and seed the cloned instance to be returned.(ä³¨

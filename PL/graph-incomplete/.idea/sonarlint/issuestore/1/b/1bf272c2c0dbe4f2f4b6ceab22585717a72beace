@@ -1,0 +1,44 @@
+
+n
+java:S1192i"SDefine a constant instead of duplicating this literal "Not supported yet." 6 times.(³È‹—ıÿÿÿÿ
+‡
+java:S1319"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(¦Ÿß°
+Œ
+java:S1319J"qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(¿¸ûÿÿÿÿ
+‹
+java:S1319s"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(´øêŸûÿÿÿÿ
+
+java:S1319˜"jThe type of "shortPath" should be an interface such as "List" rather than the implementation "LinkedList".(İ²ÄÃ
+
+java:S1319ª"eThe type of "paths" should be an interface such as "List" rather than the implementation "ArrayList".(Úğ‹Ÿøÿÿÿÿ
+
+java:S1319ª"eThe type of "dists" should be an interface such as "List" rather than the implementation "ArrayList".(Úğ‹Ÿøÿÿÿÿ
+W	java:S107ƒ"<Method has 8 parameters, which is greater than 7 authorized.(Í½Ç–ûÿÿÿÿ
+P
+java:S1118":Add a private constructor to hide the implicit public one.(ü½Š©
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦Ÿß°
+A
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+h	java:S1006"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä÷„šùÿÿÿÿ
+h	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¸ûÿÿÿÿ
+A
+java:S1168L"+Return an empty collection instead of null.(¥¹ï
+A
+java:S1168T"+Return an empty collection instead of null.(¥¹ï
+s
+java:S1172f"XRemove these unused method parameters "g", "vOrig", "vDest", "visited", "path", "paths".(€¸¹ğøÿÿÿÿ
+ƒ
+java:S1172ƒ"gRemove these unused method parameters "g", "vOrig", "ce", "sum", "zero", "visited", "pathKeys", "dist".(Í½Ç–ûÿÿÿÿ
+l
+java:S1172¹"PRemove these unused method parameters "g", "vOrig", "vDest", "pathKeys", "path".(üûÁıÿÿÿÿ
+n
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(ùÂÿÿÿÿÿ
+N
+java:S1172Æ"2Remove these unused method parameters "ce", "sum".(ùÂÿÿÿÿÿ
+?	java:S108Î")Either remove or fill this block of code.(ğô†í
+H
+java:S1144f"-Remove this unused private "allPaths" method.(€¸¹ğøÿÿÿÿ
+U
+java:S1144ƒ"9Remove this unused private "shortestPathDijkstra" method.(Í½Ç–ûÿÿÿÿ
+H
+java:S1144¹",Remove this unused private "getPath" method.(üûÁıÿÿÿÿ
